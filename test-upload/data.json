@@ -1,0 +1,32 @@
+[
+  {
+    "name": "File 1",
+    "content": "File content",
+    "index": 1,
+    "size": "1 Gb"
+  },
+  {
+    "name": "File 2",
+    "content": "File content",
+    "index": 2,
+    "size": "2 Gb"
+  },
+  {
+    "name": "File 3",
+    "content": "File content",
+    "index": 3,
+    "size": "3 Gb"
+  },
+  {
+    "name": "File 4",
+    "content": "File content",
+    "index": 4,
+    "size": "4 Gb"
+  },
+  {
+    "name": "File 5",
+    "content": "File content",
+    "index": 5,
+    "size": "5 Gb"
+  }
+]
